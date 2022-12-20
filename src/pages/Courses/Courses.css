@@ -1,0 +1,10 @@
+.courseSidebar{
+    border-right: 2px solid rgb(145, 126, 126);
+}
+
+@media (max-width:776px) {
+  
+    .courseSidebar{
+        border-right: none
+    }
+}
