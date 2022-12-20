@@ -3,7 +3,7 @@
 
 # site name : Brains Academy
 
-## live site : https://brains-academy-e85db.web.app
+## live site : https://brains-academy-44d16.web.app/
 
 #### details : its an educational website, An LMS Flatform 
 
