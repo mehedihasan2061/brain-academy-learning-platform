@@ -21,7 +21,7 @@ const Login = () => {
     
     loginUserWithEmailAndPass(email,password)
     .then(result=>{
-      toast.success("login successfull")
+      toast.success("login successfully")
       navigate(from, {replace: true});
     })
     .catch(error =>{
