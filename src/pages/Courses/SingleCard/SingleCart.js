@@ -23,4 +23,5 @@ const SingleCart = ({course}) => {
     );
 };
 
+
 export default SingleCart;
