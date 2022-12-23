@@ -15,7 +15,6 @@ const Banner = () => {
    
   };
 
-
     return (
         <section id='banner' >
          <Container>
@@ -45,6 +44,7 @@ const Banner = () => {
         </section>
     );
 };
+
 
 
 export default Banner;
