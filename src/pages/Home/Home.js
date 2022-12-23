@@ -6,8 +6,7 @@ const Home = () => {
     UseTitle('Home')
     return (
        <main>
-       <Banner/>
-       
+       <Banner/>      
        </main>
     );
 };
