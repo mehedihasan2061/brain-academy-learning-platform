@@ -30,11 +30,8 @@ useEffect(()=>{
 .then(data=>setCourses(data))
 },[id])
 
-
  const manageLoadData=  (category) =>{
-
   setId(category)
-
 
  }
 
