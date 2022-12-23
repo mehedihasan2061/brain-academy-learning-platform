@@ -63,7 +63,8 @@ const handleLogout = ()=>{
                 <Link className="navlink" to="/signup">
                   signup
                 </Link>
-              </>
+                </>
+                
             )}
           </Nav>
         </Navbar.Collapse>
