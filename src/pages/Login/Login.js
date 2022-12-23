@@ -13,7 +13,6 @@ const Login = () => {
   const from = location.state?.from?.pathname || '/';
  
  
-
   const handleLogin = (e)=>{
     e.preventDefault()
     const form = e.target
@@ -27,8 +26,7 @@ const Login = () => {
     })
     .catch(error =>{
      
-      toast.error(error.message)
-     
+      toast.error(error.message)  
 
     })
 
