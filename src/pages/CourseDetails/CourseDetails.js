@@ -17,9 +17,7 @@ const CourseDetails = () => {
         content:()=> componentRef.current,
         documentTitle:'emp-data',
         
-    })
-
-    
+    })  
 
     const courseDetails = useLoaderData()
     const {name,thumbnail,course_description,details,id}= courseDetails
