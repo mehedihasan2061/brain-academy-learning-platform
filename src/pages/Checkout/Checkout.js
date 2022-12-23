@@ -113,8 +113,6 @@ const Checkout = () => {
               <button className='mainBtn '>   Pay Now </button>
               </div>
               
-              
-            
             </Card.Body>
           </Card>
         </Col>
