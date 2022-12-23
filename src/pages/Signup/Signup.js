@@ -13,7 +13,6 @@ const gitHubProvider = new GithubAuthProvider()
 
 
 
-
 const Signup = () => {
   const {createUserWithEmail,signInWithProvider} = useContext(AuthContext)
   const navigate = useNavigate();
@@ -33,7 +32,6 @@ const Signup = () => {
     })
 
   }
-
 
 
 const handleRegister=(e)=>{
